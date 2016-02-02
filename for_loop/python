@@ -1,0 +1,8 @@
+#for loop over range of numbers
+for i in range(<start>, <end>, <step>):
+	... #first: i = <start>
+	... #last: i = <end> - 1
+
+#for loop over list
+for i in <list>:
+	...

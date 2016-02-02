@@ -1,0 +1,8 @@
+#Printing without variables
+print("...")
+
+#Printing with variables
+print("...", <variable>, "...")
+
+#Manually specify end character
+print("...", end = "<end character>")
