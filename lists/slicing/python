@@ -1,0 +1,1 @@
+<list>[<start>:<end>] #<start> and <end> are 0 and (len(<list>) - 1) by default
