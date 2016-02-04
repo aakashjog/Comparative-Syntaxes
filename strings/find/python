@@ -1,0 +1,1 @@
+<string>.find("<search string>",<start>,<end>) #first occurrence only, case-sensitive, start and end parameters optional

@@ -1,0 +1,2 @@
+"... {1} ... {0} ... {1}".format('one, corresponds to {0}','two, corresponds to {1}')
+"... {0!s} ... {0!r}".format(<object>) #{0!s} calls the __str__() method, {0!r} calls the __repr__() method
