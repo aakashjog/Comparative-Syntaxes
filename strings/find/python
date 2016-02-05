@@ -1,1 +1,1 @@
-<string>.find("<search string>",<start>,<end>) #first occurrence only, case-sensitive, start and end parameters optional
+<string>.find("<search_string>",<start>,<end>) #first occurrence only, case-sensitive, start and end parameters optional

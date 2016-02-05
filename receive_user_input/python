@@ -2,4 +2,4 @@
 <variable> = input("<text>: ")
 
 #multiple inputs
-<variable 1>, <variable 2> = input("<text>:").split(<delimiter>)
+<variable1>, <variable2> = input("<text>:").split(<delimiter>)

@@ -1,2 +1,2 @@
-def <function_name>(<input1> = <default value>, <input2> = <default value>):
+def <function_name>(<input1> = <default_value>, <input2> = <default_value>):
 	...
