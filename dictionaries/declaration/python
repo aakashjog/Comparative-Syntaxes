@@ -1,1 +1,1 @@
-<dictionary_name> = {<key_1>:<value_1>, <key_2>:<value_2>} #keys must me unmutable
+<dictionary_name> = {<key_1>:<value_1>, <key_2>:<value_2>} #keys must be immutable
